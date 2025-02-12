@@ -1,4 +1,4 @@
-#Skills & Tools Covered
+# Skills & Tools Covered
 Exploratory Data Analysis (EDA),
 Linear Regression,
 Supervised Learning,
